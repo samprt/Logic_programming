@@ -1,3 +1,0 @@
-/home/sam/Documents/ENSTA/Logic_programming/Intro/Lesson_B/build/CMakeFiles/rebuild_cache.dir
-/home/sam/Documents/ENSTA/Logic_programming/Intro/Lesson_B/build/CMakeFiles/my_project.dir
-/home/sam/Documents/ENSTA/Logic_programming/Intro/Lesson_B/build/CMakeFiles/edit_cache.dir
