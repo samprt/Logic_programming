@@ -4,7 +4,7 @@
 using namespace std;
 using namespace tubex;
 
-bool offline = false;
+bool offline = true;
 
 int main() {
     //--------------- Init
